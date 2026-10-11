@@ -1,4 +1,4 @@
-# SMS Spam Detection Using TF-IDF and Machine Learning
+# SMS Spam Detection Using TF-IDF
 
 ## Overview
 This code builds an SMS spam classifier using text preprocessing, TF-IDF feature extraction, and two machine-learning models: Multinomial Naïve Bayes and Logistic Regression. The models are evaluated using a train/test split and five-fold stratified cross-validation.
