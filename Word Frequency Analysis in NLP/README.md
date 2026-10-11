@@ -1,7 +1,7 @@
 # Word Frequency Analysis, Stemming and Lemmatization
 
 ## Overview
-This lab uses the **news category of the Brown Corpus** to explore word frequency analysis and compare stemming with lemmatization using Python and NLTK.
+The code uses the **news category of the Brown Corpus** to explore word frequency analysis and compare stemming with lemmatization using Python and NLTK.
 
 ## Tasks Covered
 - Download and load the Brown Corpus news category.
@@ -23,7 +23,7 @@ This lab uses the **news category of the Brown Corpus** to explore word frequenc
 The notebook uses the **Brown Corpus**, specifically its `news` category, accessed through NLTK.
 
 ## How to Run
-1. Open `S25MCAG0109_Lab07(1).ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells in order.
 3. Allow NLTK to download the required Brown Corpus, tokenizer, WordNet, and Open Multilingual Wordnet resources.
 4. Review the token count, frequent-word chart, and stemming/lemmatization comparisons.
