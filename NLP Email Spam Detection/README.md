@@ -1,7 +1,7 @@
 # Email Spam Classification with Naïve Bayes
 
 ## Overview
-This lab explores email spam detection using Bayes' theorem and Naïve Bayes classification. It begins with a small, manually labeled set of example emails and compares a basic probability-based approach with scikit-learn's `MultinomialNB` classifier.
+This code explores email spam detection using Bayes' theorem and Naïve Bayes classification. It begins with a small, manually labeled set of example emails and compares a basic probability-based approach with scikit-learn's `MultinomialNB` classifier.
 
 ## Topics Covered
 - Bayes' theorem basics
@@ -23,7 +23,7 @@ This lab explores email spam detection using Bayes' theorem and Naïve Bayes cla
 The notebook uses a small, manually defined list of sample emails labeled **Spam** or **Ham** (non-spam). It is a demonstration dataset, not a large benchmark dataset.
 
 ## How to Run
-1. Open `S25MCAG0109_Lab05.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells in order.
 3. If prompted, allow NLTK to download the English stopword list.
 4. Review the word probabilities, extracted features, classifier evaluation, and prediction for the sample email.
