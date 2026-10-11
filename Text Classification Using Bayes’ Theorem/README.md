@@ -1,7 +1,7 @@
 # Sentiment Analysis Using Naïve Bayes
 
 ## Overview
-This lab implements a simple Naïve Bayes classifier to classify text as positive or negative sentiment. It tokenizes the provided text data, estimates class prior and word likelihood probabilities, predicts sentiment for test sentences, and evaluates the predictions.
+This code implements a simple Naïve Bayes classifier to classify text as positive or negative sentiment. It tokenizes the provided text data, estimates class prior and word likelihood probabilities, predicts sentiment for test sentences, and evaluates the predictions.
 
 ## Tasks Covered
 - Tokenize text using whitespace splitting without removing stopwords.
@@ -20,13 +20,13 @@ This lab implements a simple Naïve Bayes classifier to classify text as positiv
 
 ## Dataset Files
 The notebook expects these CSV files in the working directory:
-- `Assignment_6-train_100_wl.csv` — training data with labels.
-- `Assignment_6-test_20_wol.csv` — test text without labels.
-- `Assignment_6-test_20_wl.csv` — test data with labels for evaluation.
+- `train_100_wl.csv` — training data with labels.
+- `test_20_wol.csv` — test text without labels.
+- `test_20_wl.csv` — test data with labels for evaluation.
 
 ## How to Run
 1. Place the three CSV files listed above in the same working directory as the notebook.
-2. Open `S25MCAG0109_Lab06.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 3. Install any missing dependencies: `pandas`, `numpy`, and `scikit-learn`.
 4. Run the notebook cells in order.
 5. Review the predicted sentiments and evaluation metrics.
