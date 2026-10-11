@@ -1,7 +1,7 @@
 # Social Media Text Cleaning and Normalization Using Regular Expressions
 
 ## Overview
-This lab demonstrates how Python's built-in `re` module can be used to clean and normalize noisy, informal text. The sample paragraphs contain repeated letters, emojis, unusual punctuation, URLs, contractions, slang, and common misspellings.
+This project demonstrates how Python's built-in `re` module can be used to clean and normalize noisy, informal text. The sample paragraphs contain repeated letters, emojis, unusual punctuation, URLs, contractions, slang, and common misspellings.
 
 ## Objectives
 - Convert text to lowercase.
@@ -17,8 +17,8 @@ This lab demonstrates how Python's built-in `re` module can be used to clean and
 - `re` — Python's built-in regular expression module
 
 ## Files
-- `S25MCAG0109_Lab02(2).ipynb` — Jupyter Notebook containing the text-cleaning code.
-- `S25MCAG0109_lab2_Output.txt` — Output showing the cleaned paragraphs.
+- `code.ipynb` — Jupyter Notebook containing the text-cleaning code.
+- `code_Output.txt` — Output showing the cleaned paragraphs.
 - `README.md` — Project description and instructions.
 
 ## How It Works
