@@ -1,7 +1,7 @@
 # SMS Spam Detection Using TF-IDF and Machine Learning
 
 ## Overview
-This lab builds an SMS spam classifier using text preprocessing, TF-IDF feature extraction, and two machine-learning models: Multinomial Naïve Bayes and Logistic Regression. The models are evaluated using a train/test split and five-fold stratified cross-validation.
+This code builds an SMS spam classifier using text preprocessing, TF-IDF feature extraction, and two machine-learning models: Multinomial Naïve Bayes and Logistic Regression. The models are evaluated using a train/test split and five-fold stratified cross-validation.
 
 ## Workflow
 1. Load the `SMSSpamCollection` dataset from a tab-separated file.
@@ -38,7 +38,7 @@ Evaluation methods:
 - Five-fold stratified cross-validation accuracy, including mean and standard deviation
 
 ## How to Run
-1. Open `NLP_Lab09.ipynb` in Google Colab or Jupyter Notebook.
+1. Open `code.ipynb` in Google Colab or Jupyter Notebook.
 2. Ensure `SMSSpamCollection` is available at `/content/SMSSpamCollection` when using Colab.
 3. Install missing dependencies if necessary: `numpy`, `pandas`, `nltk`, and `scikit-learn`.
 4. Run all cells in order and compare the model results.
