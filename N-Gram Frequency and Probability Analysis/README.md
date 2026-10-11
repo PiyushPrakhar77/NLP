@@ -1,7 +1,7 @@
 # N-Gram Language Modeling
 
 ## Overview
-This lab explores n-gram language modeling using the **Brown Corpus (news category)** with Python and NLTK. It processes the text into tokens, creates unigram, bigram, and trigram sequences, and calculates simple conditional probabilities.
+This project explores n-gram language modeling using the **Brown Corpus (news category)** with Python and NLTK. It processes the text into tokens, creates unigram, bigram, and trigram sequences, and calculates simple conditional probabilities.
 
 ## Topics Covered
 - Text normalization using lowercase conversion and regular expressions
@@ -21,7 +21,7 @@ This lab explores n-gram language modeling using the **Brown Corpus (news catego
 The notebook uses the **Brown Corpus**, specifically its `news` category, downloaded through NLTK.
 
 ## How to Run
-1. Open `S25MCAG0109_Lab04.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells in order.
 3. Ensure the environment has NLTK installed.
 4. The notebook downloads the Brown Corpus using `nltk.download('brown')`.
