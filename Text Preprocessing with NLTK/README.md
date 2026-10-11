@@ -1,7 +1,7 @@
 # Text Preprocessing with NLTK
 
 ## Overview
-This lab demonstrates common Natural Language Processing (NLP) preprocessing techniques using the Brown Corpus's **news** category from NLTK.
+This code demonstrates common Natural Language Processing (NLP) preprocessing techniques using the Brown Corpus's **news** category from NLTK.
 
 ## Tasks Covered
 - Sentence and word tokenization
@@ -21,7 +21,7 @@ This lab demonstrates common Natural Language Processing (NLP) preprocessing tec
 The notebook uses the **Brown Corpus**, specifically its `news` category, accessed through NLTK.
 
 ## How to Run
-1. Open `S25MCAG0109_Lab03.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells in order.
 3. Allow NLTK to download the required resources when prompted by the code.
 4. Review the tokenized sentence, frequent words, stemmed and lemmatized word frequencies, and word cloud visualizations.
