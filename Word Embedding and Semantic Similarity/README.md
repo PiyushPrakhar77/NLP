@@ -1,7 +1,7 @@
 # Word Embeddings with Word2Vec and GloVe
 
 ## Overview
-This lab explores word embeddings using the NLTK Movie Reviews corpus. It preprocesses review text, trains Word2Vec models using CBOW and Skip-Gram, examines word similarities and analogies, visualizes embeddings with PCA, and compares a trained model with pretrained GloVe vectors.
+This section explores word embeddings using the NLTK Movie Reviews corpus. It preprocesses review text, trains Word2Vec models using CBOW and Skip-Gram, examines word similarities and analogies, visualizes embeddings with PCA, and compares a trained model with pretrained GloVe vectors.
 
 ## Topics Covered
 - Lowercasing and tokenization
@@ -31,7 +31,7 @@ This lab explores word embeddings using the NLTK Movie Reviews corpus. It prepro
 - Word2Vec architectures: CBOW (`sg=0`) and Skip-Gram (`sg=1`)
 
 ## How to Run
-1. Open `S25MCAG0109_Lab08.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells in order.
 3. Ensure the required packages are installed: `nltk`, `gensim`, `matplotlib`, and `scikit-learn`.
 4. Allow NLTK to download the Movie Reviews corpus, tokenizer resources, and English stopwords.
