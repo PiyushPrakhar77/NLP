@@ -23,7 +23,7 @@ No external libraries are required. Python's built-in `re` module is sufficient.
 
 ## How to Run
 1. Download or clone this repository.
-2. Open `S25MCAG0109_Lab1(1).ipynb` in Jupyter Notebook or Google Colab.
+2. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 3. Run the code cells sequentially.
 4. Review the output for each regular expression example.
 
@@ -35,9 +35,6 @@ No external libraries are required. Python's built-in `re` module is sufficient.
 
 ## Applications
 Regular expressions are useful in data cleaning, text mining, information extraction, form validation, and Natural Language Processing (NLP).
-
-## Limitations
-The email, phone number, and vehicle registration patterns are simplified examples. They may not cover every valid real-world format.
 
 ## Author
 Piyush Prakhar
